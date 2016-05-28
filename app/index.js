@@ -8,5 +8,6 @@ const numbersToAdd = [
   2
 ]
 
+
 const result = calc.sum(numbersToAdd)
-console.log(`The result is: ${result}`) 
+console.log(`The result is: ${result}`)
