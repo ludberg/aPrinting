@@ -1,0 +1,23 @@
+{
+  "name": "aprinting",
+  "version": "1.0.0",
+  "description": "Light-weight Qlik Sense reporting engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludberg/aPrinting.git"
+  },
+  "author": "Anders Uddenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ludberg/aPrinting/issues"
+  },
+  "homepage": "https://github.com/ludberg/aPrinting#readme",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
